@@ -6,7 +6,7 @@ class Conjunto:
         if len(self.__conjunto) == 1:
             return (self.__conjunto[0])
         else:
-            return None
+           return None
 
 
 def promedio(self):
